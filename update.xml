@@ -2,36 +2,34 @@
 <sharpUpdate> 
     <update> 
         <version>2.0.0.0</version> 
-        <url>https://drive.google.com/file/d/1wfGw85FUx36Ro-CwF1uX2e2-yQFArpeV/view?usp=sharing</url> 
-        <filePath>./TestApp.exe</filePath>
-        <md5>BBC3DE13CA2205412C6D48CBCB2AFD32</md5>
+        <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/SLTBillPayment.exe?raw=true</url> 
+        <filePath>./SLTBillPayment.exe</filePath> 
+        <md5>12596C53F16E6DF17C7A9E3D7748812D</md5>
         <description>update app</description> 
-        <launchArgs></launchArgs> 
+        <launchArgs>update SLTBillPayment.exe</launchArgs> 
     </update>
     
     <update> 
         <version>2.0.0.0</version> 
-        <url>https://drive.google.com/file/d/14py6eCrwOYpUya6gWnIdvvv9zfAsw1J_/view?usp=sharing</url> 
+        <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/SharpUpdate.dll?raw=true</url> 
         <filePath>./SharpUpdate.dll</filePath>
-        <md5>ADC82B3AC2F86F709D06091CFC8B31CD</md5>
-        <description>Update: 10/06/2018:
-        1. Support for multiple files updating.</description> 
-        <launchArgs></launchArgs>
+        <md5>0421D5F5B92432F3654E223660D42B4A</md5>
+        <description>Update update Library</description> 
+        <launchArgs>Update update Library</launchArgs>
     </update>
     
     
     <add> 
-        <version>2.0.0.0</version> 
-        <url>https://drive.google.com/file/d/14py6eCrwOYpUya6gWnIdvvv9zfAsw1J_/view?usp=sharing</url> 
-        <filePath>./test_add/SharpUpdate.dll</filePath>
-        <md5>ADC82B3AC2F86F709D06091CFC8B31CD</md5>
-        <description>update dill</description> 
-        <launchArgs></launchArgs> 
+        <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/DummySQLScript.sql?raw=true</url> 
+        <filePath>./DummySQLScript.sql</filePath>
+        <md5>D41D8CD98F00B204E9800998ECF8427E</md5>
+        <description>update Sql script</description> 
+        <launchArgs>update sql script</launchArgs> 
     </add>
          
     <remove>
-        <filePath>./test_remove/SharpUpdate-Copy.dll</filePath>
-        <description>removeee</description> 
+        <filePath></filePath>
+        <description></description> 
         <launchArgs></launchArgs> 
     </remove>
 </sharpUpdate>
