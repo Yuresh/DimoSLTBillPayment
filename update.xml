@@ -27,9 +27,5 @@
         <launchArgs>update sql script</launchArgs> 
     </add>
          
-    <remove>
-        <filePath></filePath>
-        <description></description> 
-        <launchArgs></launchArgs> 
-    </remove>
+    
 </sharpUpdate>
