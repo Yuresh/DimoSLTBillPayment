@@ -1,0 +1,37 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update> 
+        <version>2.0.0.0</version> 
+        <url>https://drive.google.com/file/d/1wfGw85FUx36Ro-CwF1uX2e2-yQFArpeV/view?usp=sharing</url> 
+        <filePath>./TestApp.exe</filePath>
+        <md5>BBC3DE13CA2205412C6D48CBCB2AFD32</md5>
+        <description>update app</description> 
+        <launchArgs></launchArgs> 
+    </update>
+    
+    <update> 
+        <version>2.0.0.0</version> 
+        <url>https://drive.google.com/file/d/14py6eCrwOYpUya6gWnIdvvv9zfAsw1J_/view?usp=sharing</url> 
+        <filePath>./SharpUpdate.dll</filePath>
+        <md5>ADC82B3AC2F86F709D06091CFC8B31CD</md5>
+        <description>Update: 10/06/2018:
+        1. Support for multiple files updating.</description> 
+        <launchArgs></launchArgs>
+    </update>
+    
+    
+    <add> 
+        <version>2.0.0.0</version> 
+        <url>https://drive.google.com/file/d/14py6eCrwOYpUya6gWnIdvvv9zfAsw1J_/view?usp=sharing</url> 
+        <filePath>./test_add/SharpUpdate.dll</filePath>
+        <md5>ADC82B3AC2F86F709D06091CFC8B31CD</md5>
+        <description>update dill</description> 
+        <launchArgs></launchArgs> 
+    </add>
+         
+    <remove>
+        <filePath>./test_remove/SharpUpdate-Copy.dll</filePath>
+        <description>removeee</description> 
+        <launchArgs></launchArgs> 
+    </remove>
+</sharpUpdate>
