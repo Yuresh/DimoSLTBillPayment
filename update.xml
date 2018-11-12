@@ -19,13 +19,6 @@
     </update>
     
     
-    <add>   
-        <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/MigrationSript.sql?raw=true</url> 
-        <filePath>./Database/MigrationSript.sql</filePath>
-        <md5>E99867C3B8A17944FB42A16D2477972D</md5>
-        <description>update Sql script</description> 
-        <launchArgs>update sql script</launchArgs> 
-    </add>
          
     
 </sharpUpdate>
