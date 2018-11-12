@@ -20,9 +20,9 @@
     
     
     <add> 
-        <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/DummySQLScript.sql?raw=true</url> 
-        <filePath>./DummySQLScript.sql</filePath>
-        <md5>D41D8CD98F00B204E9800998ECF8427E</md5>
+        <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/MigrationScript.sql?raw=true</url> 
+        <filePath>.Database/MigrationScript.sql</filePath>
+        <md5>E99867C3B8A17944FB42A16D2477972D</md5>
         <description>update Sql script</description> 
         <launchArgs>update sql script</launchArgs> 
     </add>
