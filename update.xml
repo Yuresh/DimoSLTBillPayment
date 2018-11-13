@@ -18,6 +18,13 @@
         <launchArgs>Update update Library</launchArgs>
     </update>
     
+    <add> 
+        <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/MigrationSript.sql?raw=true</url> 
+        <filePath>./MigrationSript.sql</filePath>
+        <md5>499C910ADC99894B98845240D7E8F389</md5>
+        <description>a</description> 
+        <launchArgs>a</launchArgs> 
+    </add>
     
          
     
