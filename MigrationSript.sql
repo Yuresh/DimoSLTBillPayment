@@ -1,6 +1,1 @@
-
-CREATE TABLE SLTTestDatabase (
-	PersonID int,
-    Name varchar(255),
-    City varchar(255) 
-);
+insert into SLTTestTable values (2,'isuri','Matara')
