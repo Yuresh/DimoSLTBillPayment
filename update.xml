@@ -18,14 +18,14 @@
         <launchArgs>Update update Library</launchArgs>
     </update>
     
-    
     <add> 
-        <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/DummySQLScript.sql?raw=true</url> 
-        <filePath>./DummySQLScript.sql</filePath>
-        <md5>D41D8CD98F00B204E9800998ECF8427E</md5>
-        <description>update Sql script</description> 
-        <launchArgs>update sql script</launchArgs> 
+        <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/MigrationSript.sql?raw=true</url> 
+        <filePath>./MigrationSript.sql</filePath>
+        <md5>2D21BC6F464D635E5B26F114A5AB2CAC</md5>
+        <description>a</description> 
+        <launchArgs>a</launchArgs> 
     </add>
+    
          
     
 </sharpUpdate>
