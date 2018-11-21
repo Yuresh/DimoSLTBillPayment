@@ -1,1 +1,1 @@
-insert into SLTTestTable values (2,'isuri','Matara')
+insert into SLTTestDatabase values (2, 'yuresh' , 'Akuressa' )
