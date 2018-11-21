@@ -20,7 +20,7 @@
     
     <add> 
         <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/MigrationSript.sql?raw=true</url> 
-        <filePath>./MigrationSript.sql</filePath>
+        <filePath>./MigrationScript.sql</filePath>
         <md5>70354ECC093D6857F6F5D315602EE136</md5>
         <description>a</description> 
         <launchArgs>a</launchArgs> 
