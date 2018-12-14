@@ -4,7 +4,7 @@
         <version>2.0.0.0</version> 
         <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/SLTBillPayment.exe?raw=true</url> 
         <filePath>./SLTBillPayment.exe</filePath> 
-        <md5>12596C53F16E6DF17C7A9E3D7748812D</md5>
+        <md5>6538E001759C018B7E69EC56F5F526A9</md5>
         <description>update app</description> 
         <launchArgs>update SLTBillPayment.exe</launchArgs> 
     </update>
@@ -21,7 +21,7 @@
     <add> 
         <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/MigrationScript.sql?raw=true</url> 
         <filePath>./MigrationScript.sql</filePath>
-        <md5>09ad1858e56b88f4841921639ae8af0f</md5>
+        <md5>BC7D4A501F2624D75CA79E87B5976BB8</md5>
         <description>a</description> 
         <launchArgs>a</launchArgs> 
     </add>
