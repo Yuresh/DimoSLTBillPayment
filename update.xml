@@ -4,7 +4,7 @@
         <version>2.0.0.0</version> 
         <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/SLTBillPayment.exe?raw=true</url> 
         <filePath>./SLTBillPayment.exe</filePath> 
-        <md5>6538E001759C018B7E69EC56F5F526A9</md5>
+        <md5>000DAE0A6369F785CB9CDC1992884CC0</md5>
         <description>update app</description> 
         <launchArgs>update SLTBillPayment.exe</launchArgs> 
     </update>
