@@ -13,7 +13,7 @@
         <version>2.0.0.0</version> 
         <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/SharpUpdate.dll?raw=true</url> 
         <filePath>./SharpUpdate.dll</filePath>
-        <md5>0421D5F5B92432F3654E223660D42B4A</md5>
+        <md5>F2B4F8A357E2AAE27B556F4D65173F4F</md5>
         <description>Update update Library</description> 
         <launchArgs>Update update Library</launchArgs>
     </update>
