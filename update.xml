@@ -30,7 +30,7 @@
     <add> 
         <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/SLTBillPayment.exe.config?raw=true</url> 
         <filePath>./SLTBillPayment.exe.config</filePath>
-        <md5>7d210911b302266c431fe0fba2159ee2</md5>
+        <md5>4082f3a97db014f9b7115272ad389d56</md5>
         <description>config node</description> 
         <launchArgs>config node </launchArgs> 
     </add>
