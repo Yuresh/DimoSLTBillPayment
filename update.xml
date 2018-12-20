@@ -1,5 +1,6 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
+
     <update> 
         <version>2.0.0.0</version> 
         <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/SLTBillPayment.exe?raw=true</url> 
@@ -22,8 +23,16 @@
         <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/MigrationScript.sql?raw=true</url> 
         <filePath>./MigrationScript.sql</filePath>
         <md5>09ad1858e56b88f4841921639ae8af0f</md5>
-        <description>a</description> 
-        <launchArgs>a</launchArgs> 
+        <description>Migration script</description> 
+        <launchArgs>Migration script</launchArgs> 
     </add>
-    
+	
+    <add> 
+        <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/SLTBillPayment.exe.config?raw=true</url> 
+        <filePath>./SLTBillPayment.exe.config</filePath>
+        <md5>7d210911b302266c431fe0fba2159ee2</md5>
+        <description>config node</description> 
+        <launchArgs>config node </launchArgs> 
+    </add>
+       
 </sharpUpdate>
