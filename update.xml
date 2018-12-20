@@ -5,7 +5,7 @@
         <version>2.0.0.0</version> 
         <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/SLTBillPayment.exe?raw=true</url> 
         <filePath>./SLTBillPayment.exe</filePath> 
-        <md5>75981B0DD261AF957E636035BD748DF2</md5>
+        <md5>59d190dbecb5fdc9adedc9e380f427e7</md5>
         <description>update app</description> 
         <launchArgs>update SLTBillPayment.exe</launchArgs> 
     </update>
@@ -14,7 +14,7 @@
         <version>2.0.0.0</version> 
         <url>https://github.com/Yuresh/DimoSLTBillPayment/blob/master/SharpUpdate.dll?raw=true</url> 
         <filePath>./SharpUpdate.dll</filePath>
-        <md5>C8B65ECB92595FD63C27FB9855C7D64C</md5>
+        <md5>a9b73e6ab249933f9f00300c47f9ef92</md5>
         <description>Update update Library</description> 
         <launchArgs>Update update Library</launchArgs>
     </update>
